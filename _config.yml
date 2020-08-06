@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+deploy:
+  type: git
+  repo:
+    github:https://purpose1113.github.io/
+  branch:master
